@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "M4B Splitter",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}\\m4b_splitter.py",
+            // "args": [
+            //     "${workspaceFolder}\\test.m4b"
+            // ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
